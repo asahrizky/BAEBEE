@@ -41,7 +41,7 @@ import {
 // Definisikan item menu
 const navItems = [
   { icon: LayoutDashboard, label: "Dashboard", href: "/dashboard" },
-  { icon: ShoppingCart, label: "Orders", href: "/dashboard/orders" },
+  { icon: ShoppingCart, label: "Orders", href: "/dashboard/order" },
   { icon: Package, label: "Products", href: "/dashboard/products" },
   { icon: Users, label: "Customers", href: "/dashboard/customers" },
   { icon: LineChart, label: "Analytics", href: "/dashboard/analytics" },
